@@ -11,8 +11,8 @@ ___
 ## Tabla de Contenido.
 - [Lenguaje utilizado.](#lenguaje-utilizado)
 - [Como instalar el proyecto.](#como-instalar-el-proyecto)
-- [Funcionalidades del proyecto.](#funcionalidades-del-proyecto)
 - [Herramientas utilizadas.](#herramientas-utilizadas)
+- [Funcionalidades del proyecto.](#funcionalidades-del-proyecto)
 
 ___
 
